@@ -186,7 +186,7 @@ The system can be continuously enhanced with additional banking features and imp
 
 ## 👨‍💻 Developer
 
-**Sameh Alhadad Youssef**
+**Youssef Sameh Alhadad **
 
 GitHub:
 
